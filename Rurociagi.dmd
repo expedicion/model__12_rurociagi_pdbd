@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Rurociagi" id="5FBF4F3C-6CE6-E8A1-937C-9ED55AFDD377" version="3.5">
+<createdBy>Dell</createdBy>
+<createdTime>2019-03-05 22:12:56 UTC</createdTime>
+<ownerDesignName>Rurociagi</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>5FBF4F3C-6CE6-E8A1-937C-9ED55AFDD377</designId>
+</OSDM_Design>
